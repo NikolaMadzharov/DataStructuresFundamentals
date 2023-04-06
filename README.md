@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/89745007/230483946-aa943b32-86b0-4234-84eb-fd08b1461fc6.png)
+![data-structures-fundamentals-with-csharp](https://user-images.githubusercontent.com/89745007/230484119-b4508d85-9726-4d84-85f9-ec0dcd12f6d7.jpg)
+
 
 
 # DataStructuresFundamentals

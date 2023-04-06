@@ -12,5 +12,5 @@ This repository contains my solutions for the SoftUni course [Data Structures Fu
   </summary>
   <details>
    <summary>
-👈🏻 I - <a href="https://github.com/NikolaMadzharov/DataStructuresFundamentals/tree/main/01.Linear%20Data%20Structures%20-%20Lab</a> - Linear Data Structures Lab
+👈🏻 I  <a href="https://github.com/NikolaMadzharov/DataStructuresFundamentals/tree/main/01.Linear%20Data%20Structures%20-%20Lab</a>Linear Data Structures Lab
   </summary>

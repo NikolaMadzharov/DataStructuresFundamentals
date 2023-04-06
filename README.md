@@ -1,4 +1,5 @@
-https://softuni.bg/Files/Publications/2021/06/17.05-add-for-announce-edited_11300509.png
+![image](https://user-images.githubusercontent.com/89745007/230483946-aa943b32-86b0-4234-84eb-fd08b1461fc6.png)
+
 
 # DataStructuresFundamentals
 This repository contains my solutions for the SoftUni course [Data Structures Fundamentals With C#](https://softuni.bg/trainings/3921/data-structures-fundamentals-with-csharp-november-2022)
